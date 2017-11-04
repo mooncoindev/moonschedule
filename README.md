@@ -1,6 +1,6 @@
 compile with:
 
- gcc -lm moonreward.c -o moonreward
+ gcc moonreward.c -lm -o moonreward
 
 love,
 baz
